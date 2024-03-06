@@ -1,0 +1,7 @@
+//para crear un git ignore se debe crear un archivo .gitignore
+
+//para ignorar un archivo se debe escribir el nombre del archivo o carpeta que se quiere ignorar
+//si se quiere ignorar una carpeta se debe escribir el nombre de la carpeta seguido de una diagonal
+//si se quiere ignorar un tipo de archivo se debe escribir el tipo de archivo seguido de un asterisco
+//si se quiere ignorar un archivo en especifico se debe escribir el nombre del archivo seguido de su tipo
+
